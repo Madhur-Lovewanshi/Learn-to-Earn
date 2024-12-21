@@ -8,6 +8,8 @@
 
 ## Contract Address
 0xCAc046395C0C8dB36690A9e48EB7500a6b59E935
+![image](https://github.com/user-attachments/assets/0ae4bf8e-294b-4cd7-a925-d6d8f8fa55f8)
+
 
 ## Project Vision
 The vision of the **Learn-to-Earn** platform is to provide an incentivized learning environment where users can earn rewards for their educational efforts. It aims to:
